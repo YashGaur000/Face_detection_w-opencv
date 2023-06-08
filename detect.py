@@ -1,3 +1,6 @@
+
+#FACE_DETECTION
+
 # # import cv2
 
 # # alg = 'haarcascade_frontalface_default.xml'
@@ -21,6 +24,8 @@
 
 # # cam.release()
 # # cv2.destroyAllWindows()
+
+#SHAPE_OF_FACE
 
 
 # import cv2
