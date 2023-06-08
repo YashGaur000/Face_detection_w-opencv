@@ -113,7 +113,7 @@ while True:
     gray_img = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 
     # Detect faces in the grayscale image
-    faces = face_cascade.detectMultiScale(gray_img, 1.3, 4)
+    faces = face_cascade.detectMultiScale(gray_img, 1.3, 5)
 
     # Process each detected face
     for (x, y, w, h) in faces:
