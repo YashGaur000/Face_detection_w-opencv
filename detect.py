@@ -25,6 +25,8 @@
 # # cam.release()
 # # cv2.destroyAllWindows()
 
+# Comment the all code except above one to run above code
+
 #SHAPE_OF_FACE
 
 
