@@ -34,7 +34,7 @@ import cv2
 face_cascade = cv2.CascadeClassifier(r"C:\Users\gaurk\OneDrive\Desktop\Face_Detection wopencv\Face-Detection-Using-Python\haarcascade_frontalface_default.xml")
 
 # Define the face shape labels
-face_shape_labels = ['Round', 'Heart', 'Square', 'Oval']
+face_shape_labels = ['Round', 'Heart', 'Square', 'Oval', 'long']
 
 def detect_face_shape(face):
     # Calculate the aspect ratio of the detected face
