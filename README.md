@@ -6,6 +6,6 @@ This program contains code for face detection, shape of face detection, a funny 
 
 Use this repo to get a better understanding about face detection.
 
-Thank you
+Thank you to go thru this.
 
 We hope you will love it.
