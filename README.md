@@ -12,6 +12,6 @@ Thank you to go through this.
 
 We hope you will love it and share this with your friends and dont forget to star it! Love it.
 
-complete.
+completed.
 done.
 move to another files to see more.
