@@ -153,7 +153,7 @@ while True:
 
 # Release the video capture and close the OpenCV windows
 cam.release()
-cv2.destroyAllWindows()
+cv2.destroyAllWindows()     #destroys all windows
 
 #done execution here completed
 
