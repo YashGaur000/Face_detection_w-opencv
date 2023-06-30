@@ -10,7 +10,7 @@ Use this repo to get a better understanding about face detection.
 
 Thank you so much to go through this.
 
-We hope you will love it and share this with your friends and dont forget to star it! Love it.
+We hope you will love it and share this with your friends and dont forget to star it! Love it!
 
 completed.
 done.
