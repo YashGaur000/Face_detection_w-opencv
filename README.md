@@ -12,7 +12,6 @@ Thank you so much to go through this repository.
 
 We hope you will love it and share this with your friends and dont forget to star it! Love it!
 
-completed.
-done.
+Hence completed.
 
 now move to another files to see more relevant info in these files.
