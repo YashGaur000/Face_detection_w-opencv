@@ -8,7 +8,7 @@ This program contains code for face detection, shape of face detection, a funny 
 
 Use this repo to get a better understanding about face detection and enhance your knowledge.
 
-Thank you so much to go through this repository.
+Thank you so much to go through this repository and star it for more info.
 
 We hope you will love it and share this with your friends and dont forget to star it! Love it!
 
