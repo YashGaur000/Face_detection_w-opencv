@@ -13,4 +13,4 @@ Thank you so much to go through this repository and star it to get more info.
 
 We hope you will love it and share this with your friends and dont forget to star it! Love it!
 
-Now move to another files to see more relevant info in these files.
+Now move to another files to see more relevant info in these files. Explore other repositories for more better understanding.
