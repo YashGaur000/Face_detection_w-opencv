@@ -6,7 +6,8 @@ Program that detects faces in real-time using Haar Cascade Frontal Face algorith
 
 This program contains code for face detection, shape of face detection, a funny face code (a circle will come on your face) to detect your face area.
 
-Use this repo to get a better understanding about face detection and enhance your knowledge.
+Use this repo to get a better understanding about face detection and enhance your knowledge about detecting different faces.
+
 
 Thank you so much to go through this repository and star it for more info.
 
