@@ -101,7 +101,7 @@
 # importing libs 
 
 import cv2      #for img processing
-import numpy as np
+import numpy as np      #for maths calculations
 
 # Load the pre-trained face cascade classifier
 face_cascade = cv2.CascadeClassifier(r"C:\Users\gaurk\OneDrive\Desktop\Face_Detection wopencv\Face-Detection-Using-Python\haarcascade_frontalface_default.xml")
