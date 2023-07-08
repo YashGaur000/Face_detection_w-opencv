@@ -155,5 +155,5 @@ while True:
 cam.release()
 cv2.destroyAllWindows()     #destroys all windows
 
-#done execution here completed
+
 
