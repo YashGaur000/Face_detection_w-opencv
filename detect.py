@@ -100,7 +100,7 @@
 
 # importing libs 
 
-import cv2
+import cv2      #for img processing
 import numpy as np
 
 # Load the pre-trained face cascade classifier
