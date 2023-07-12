@@ -15,4 +15,4 @@ We hope you will love it and share this with your friends and dont forget to sta
 
 Now move to another files to see more relevant info in these files. Explore other repositories for more better understanding and open source knowledge.
 
-end here.
+end here. To know more follow me and reach out to me via email.
