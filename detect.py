@@ -158,3 +158,4 @@ cv2.destroyAllWindows()     #destroys all windows
 
 
 
+#Comment off code which you needed to run
