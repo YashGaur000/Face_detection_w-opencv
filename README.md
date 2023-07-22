@@ -19,4 +19,4 @@ Now move to another files to see more relevant info in these files. Explore othe
 
 end here. To know more follow me and reach out to me via email.
 
-Take carea and Happy open source!
+Take care and Happy open source!
